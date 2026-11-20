@@ -1,0 +1,14 @@
+[
+  {
+    "_id": "09e0a6ee85d7e970c539e186",
+    "name": "vansh",
+    "email": "vansh1@gmail.com",
+    "password": "$2b$10$1dMpSB4I89ZXBXs1epQAw.6SExyVhEBzl7AZdREr3m/BfArWGQrA6",
+    "phone": "",
+    "address": "",
+    "bio": "",
+    "skills": "",
+    "createdAt": "2026-11-20T10:00:14.104Z",
+    "updatedAt": "2026-11-20T10:02:42.697Z"
+  }
+]

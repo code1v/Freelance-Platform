@@ -1,0 +1,14 @@
+[
+  {
+    "_id": "ed10b439af291c0c866e428b",
+    "user": "09e0a6ee85d7e970c539e186",
+    "client": "ec38b5232d391aece6211de4",
+    "task": "1488c247c8dbeaf21ea156b5",
+    "amount": 45666,
+    "status": "Paid",
+    "description": "fgb",
+    "date": "2026-11-21T00:00:00.000Z",
+    "createdAt": "2026-11-20T10:02:21.525Z",
+    "updatedAt": "2026-11-20T10:02:21.525Z"
+  }
+]
